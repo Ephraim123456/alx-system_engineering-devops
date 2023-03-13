@@ -1,0 +1,4 @@
+#!/bin/bash
+echo 'Enter file name'
+read FileName
+chmod u+x $FileName
