@@ -1,2 +1,2 @@
-12 #!/bin/bash
+#!/bin/bash
 ls -lt | head -n 10 | cat
